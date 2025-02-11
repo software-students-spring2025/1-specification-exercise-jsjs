@@ -60,9 +60,9 @@ Given our established product vision, mingled with our user interviews and ident
 
 ## Activity Diagrams
 
-![UML Diagram 1](https://github.com/user-attachments/assets/ca6e23fc-51a2-4ae2-95fa-230e3b6d7f0e)
+![UML Diagram 1](https://github.com/user-attachments/assets/bb180ab5-d827-4264-87e7-d2b18198fc46)
 
-![UML Diagram 2](https://github.com/user-attachments/assets/b3073442-318c-4b72-acc9-3afff97281ee)
+![UML Diagram 2](https://github.com/user-attachments/assets/0473361e-35f5-4add-873d-aae784d04988)
 
 
 ## Clickable Prototype
