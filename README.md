@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 * Jeffrey Chen - [Link to Profile](https://github.com/JeffreyChen112)
 * Samir Hussain - [Link to Profile](https://github.com/Samir2324)
 * Shaurya Srivastava - [Link to Profile](https://github.com/shauryasr04)
+* Jake Chang - [Link to Profile](https://github.com/jakechang1284)
 
 ## Ideation
 
@@ -74,4 +75,4 @@ Given our established product vision, mingled with our user interviews and ident
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype](https://www.figma.com/proto/GNFudt2Q8TRRYm31rZmHVW/jsjs?node-id=0-1&t=qskPw1GvaHNmHq6w-1)
