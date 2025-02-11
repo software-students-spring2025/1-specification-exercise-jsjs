@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Jeffrey Chen - [Link to Profile](https://github.com/JeffreyChen112)
+Samir Hussain - [Link to Profile](https://github.com/Samir2324)
 
 ## Stakeholders
 
