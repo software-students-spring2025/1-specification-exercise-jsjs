@@ -41,7 +41,7 @@ Our platform aims to create, lead, disrupt, and revolutionize the Division III t
 
 ## User Requirements
 
-Given our established product vision, mingled with our user interviews and identified pain points from our Stakeholder interviews, we established 10 user requirements we aim to acknowldege in our wireframe and clickable prototype.
+Given our established product vision, mingled with our user interviews and identified pain points from our Stakeholder interviews, we established 10 user requirements we aim to acknowldege in our wireframe and clickable prototype:
 
 * As a track and field investor, I want to filter runners based on performance stats (e.g., times, recent wins) so that I can make informed betting decisions.
 
