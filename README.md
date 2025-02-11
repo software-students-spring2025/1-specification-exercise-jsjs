@@ -4,8 +4,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Jeffrey Chen - [Link to Profile](https://github.com/JeffreyChen112)
-Samir Hussain - [Link to Profile](https://github.com/Samir2324)
+* Jeffrey Chen - [Link to Profile](https://github.com/JeffreyChen112)
+* Samir Hussain - [Link to Profile](https://github.com/Samir2324)
 
 ## Stakeholders
 
@@ -14,13 +14,15 @@ Samir Hussain - [Link to Profile](https://github.com/Samir2324)
         * Wants a platform that allows him to bet on sports outside of the major sports (football, soccer, baseball, etc.)
         * Wants long "bets" that allow him to follow an athlete for longer than a single game/match
     * Problems/Frustrations
-        * Lack of data/information on betting apps 
+        * He is frustrated that there is a lack of data/information on betting apps
         * No centralized location to track overall profits/losses
+        * Frustrated with how big of a cut some sports book take from his winnings
 
 * Stakeholder 2 (Tyler):
     * Goals/Needs
         * Wants to take advantage of his running knowledge to make money
-        * Needs a mobile app so that he can access and make trades anywhere he wants
+        * Needs a mobile version so that he can access and make trades anywhere he wants
+        * Needs payment security to feel comfortable with putting in and taking out money from the app
     * Problems/Frustrations
         * Some betting apps feel like a scam and he is deterred from making bets/trades
         * No real time data is frustrating for Tyler as he cannot make quick decisions to make the necessary trades 
