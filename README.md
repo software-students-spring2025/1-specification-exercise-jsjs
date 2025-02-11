@@ -30,7 +30,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-Our platform aims to create, lead, disrupt, and revolutionize the Division III track and field betting experience by providing an intuitive, data-driven marketplace where users can discover, invest in, and trade bets on emerging athletes. By empowering users with real-time insights, transparent odds, and community-driven engagement, Lactic aims to provide a dynamic and fair market for all participants to bring the sports-betting industry to new realms.
+Our platform aims to create, lead, disrupt, and revolutionize the Division III track and field betting experience by providing an intuitive, data-driven marketplace where users can discover, invest in, and trade bets on emerging athletes. By empowering users with real-time insights, transparent odds, and community-driven engagement, LacTic aims to provide a dynamic and fair market for all participants to bring the sports-betting industry to new realms.
 
 
 ## User Requirements
