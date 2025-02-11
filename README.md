@@ -62,7 +62,8 @@ Given our established product vision, mingled with our user interviews and ident
 
 ![UML Diagram 1](https://github.com/user-attachments/assets/bb180ab5-d827-4264-87e7-d2b18198fc46)
 
-![UML Diagram 2](https://github.com/user-attachments/assets/0473361e-35f5-4add-873d-aae784d04988)
+![UML Diagram 2](https://github.com/user-attachments/assets/a0b16c45-4b9e-4991-a5d8-2861203d2316)
+
 
 
 ## Clickable Prototype
