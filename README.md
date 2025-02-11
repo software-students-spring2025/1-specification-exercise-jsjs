@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 * Jeffrey Chen - [Link to Profile](https://github.com/JeffreyChen112)
 * Samir Hussain - [Link to Profile](https://github.com/Samir2324)
+* Shaurya Srivastava - [Link to Profile](https://github.com/shauryasr04)
 
 ## Stakeholders
 
@@ -29,11 +30,33 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our platform aims to create, lead, disrupt, and revolutionize the Division III track and field betting experience by providing an intuitive, data-driven marketplace where users can discover, invest in, and trade bets on emerging athletes. By empowering users with real-time insights, transparent odds, and community-driven engagement, Lactic aims to provide a dynamic and fair market for all participants to bring the sports-betting industry to new realms.
+
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+Given our established product vision, mingled with our user interviews and identified pain points from our Stakeholder interviews, we established 10 user requirements we aim to acknowldege in our wireframe and clickable prototype.
+
+* As a track and field investor, I want to filter runners based on performance stats (e.g., times, recent wins) so that I can make informed betting decisions.
+
+* As a track and field investor, I want to see a list of upcoming D3 races and bet on them so that I can engage with the sport in a new way.
+
+* As a track and field investor, I want a central dashboard where I can easily navigate to my portfolio, the market, race schedules, and trade history so that I can efficiently manage my investments and track athlete performances.
+
+* As a track and field investor, I want to place long-term bets on athletes so that I can follow their progress beyond just a single race.
+
+* As a track and field investor, I want to watch live race results and updates so that I can follow my bets in real-time.
+
+* As a track and field investor, I want to buy and sell bets dynamically based on athlete performance so that I can capitalize on market trends.
+
+* As a track and field investor, I want a history of all my transactions so that I can track my financial activity.
+
+* As a track and field investor, I want a trustworthy and transparent betting system so that I feel confident in the platform’s fairness.
+
+* As a track and field investor, I want to filter athletes by school, year, and price so that I can easily find and evaluate runners that match my investment strategy.
+
+* As a track and field investor, I want the process of making trades (Buy/Sell) easy and fast so that I can spend most of my time researching and reading about athletes to maximize my returns.
+
 
 ## Activity Diagrams
 
