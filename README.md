@@ -8,7 +8,21 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+* Stakeholder 1 (Nikhil): 
+    * Goals/Needs
+        * Wants a platform that allows him to bet on sports outside of the major sports (football, soccer, baseball, etc.)
+        * Wants long "bets" that allow him to follow an athlete for longer than a single game/match
+    * Problems/Frustrations
+        * Lack of data/information on betting apps 
+        * No centralized location to track overall profits/losses
+
+* Stakeholder 2 (Tyler):
+    * Goals/Needs
+        * Wants to take advantage of his running knowledge to make money
+        * Needs a mobile app so that he can access and make trades anywhere he wants
+    * Problems/Frustrations
+        * Some betting apps feel like a scam and he is deterred from making bets/trades
+        * No real time data is frustrating for Tyler as he cannot make quick decisions to make the necessary trades 
 
 ## Product Vision Statement
 
