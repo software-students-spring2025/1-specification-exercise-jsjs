@@ -8,6 +8,11 @@ A little exercise to get started with the specification phase of the software de
 * Samir Hussain - [Link to Profile](https://github.com/Samir2324)
 * Shaurya Srivastava - [Link to Profile](https://github.com/shauryasr04)
 
+## Ideation
+
+* We want to create a marketplace to trade "stocks" based on the performance of runners. The problem with current betting sites is that most bets only last for the duration of a game/match. Those who want to make more long term bets and follow specific athletes can now do so with our platform. 
+* Our target end users are those who are active participants in the the running community- especially the D3 running community. We want to target people who are passionate about running and follow both the collegiate and professional landscape closely. We feel that these type of people are most likely participate in our market and be the most active participants. 
+
 ## Stakeholders
 
 * Stakeholder 1 (Nikhil): 
